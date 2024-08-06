@@ -1,0 +1,8 @@
+name: JengaPlugin
+version: '${project.version}'
+main: io.lionpa.jengaplugin.JengaPlugin
+api-version: '1.21'
+load: STARTUP
+authors: [LionPa]
+description: Add Jenga to Minecraft
+website: https://github.com/LionPa/JengaPlugin
